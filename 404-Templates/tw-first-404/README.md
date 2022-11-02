@@ -3,7 +3,7 @@
  
  ## 🔰 Preview
 
-<img src="https://imgur.com/HJAsZR" align="center" style="width: 100%" />
+<img src="https://imgur.com/HJAsZR1.png" align="center" style="width: 100%" />
 
 ## Or Check it here: [Clik here](https://vilictus.github.io/TailwindCSS-Public-Proyects/404-Templates/tw-first-404)
  
