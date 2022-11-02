@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <!-- [[ General Configurations ]] -->
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width,initial-scale=1" />
+      <title>404 - Not Found</title>
+      <!-- [[ Basic Meta Tags ]] -->
+      <meta name="title" content="Basic 404 Tailwind Template" />
+      <meta
+         name="description"
+         content="A Basic 404 Not Found Template made with TailwindCSS & Pure HTML."
+         />
+      <!-- [[ Librarys or another stuff ]] -->
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+      <link
+         href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap"
+         rel="stylesheet"
+         />
+      <script src="https://cdn.tailwindcss.com"></script>
+      <style>
+         #title {
+         -webkit-animation: vibrate-1 0.2s linear infinite both;
+         animation: swing 5s  infinite both;
+         }
+         
+         /* === ANIMATION CREDITS === */
+         /* Thanks You! Credits to the author of the animation: theappguruz.com! */
+         
+         @-webkit-keyframes swing {
+         20% {
+         -webkit-transform: rotate3d(0, 0, 1, 15deg);
+         transform: rotate3d(0, 0, 1, 15deg);
+         }
+         40% {
+         -webkit-transform: rotate3d(0, 0, 1, -10deg);
+         transform: rotate3d(0, 0, 1, -10deg);
+         }
+         60% {
+         -webkit-transform: rotate3d(0, 0, 1, 5deg);
+         transform: rotate3d(0, 0, 1, 5deg);
+         }
+         80% {
+         -webkit-transform: rotate3d(0, 0, 1, -5deg);
+         transform: rotate3d(0, 0, 1, -5deg);
+         }
+         100% {
+         -webkit-transform: rotate3d(0, 0, 1, 0deg);
+         transform: rotate3d(0, 0, 1, 0deg);
+         }
+         }
+         @keyframes swing {
+         20% {
+         -webkit-transform: rotate3d(0, 0, 1, 15deg);
+         transform: rotate3d(0, 0, 1, 15deg);
+         }
+         40% {
+         -webkit-transform: rotate3d(0, 0, 1, -10deg);
+         transform: rotate3d(0, 0, 1, -10deg);
+         }
+         60% {
+         -webkit-transform: rotate3d(0, 0, 1, 5deg);
+         transform: rotate3d(0, 0, 1, 5deg);
+         }
+         80% {
+         -webkit-transform: rotate3d(0, 0, 1, -5deg);
+         transform: rotate3d(0, 0, 1, -5deg);
+         }
+         100% {
+         -webkit-transform: rotate3d(0, 0, 1, 0deg);
+         transform: rotate3d(0, 0, 1, 0deg);
+         }
+         }
+      </style>
+   </head>
+   <body>
+      <div class="bg-[#070708] w-full min-h-screen">
+         <main>
+            <div
+               class="flex items-center justify-center flex-col gap-4 min-h-screen px-8">
+               <div class="flex items-center justify-center gap-8 font-[Poppins]">
+                  <h1 id="codeError_Title" class="text-7xl text-indigo-400 font-bold">404</h1>
+                  <strong class="text-gray-500 text-[20px] font-medium border-l-2 pl-8 border-[#101012]"> Page Not Found! </strong>
+               </div>
+            </div>
+         </main>
+      </div>
+   </body>
+</html>
