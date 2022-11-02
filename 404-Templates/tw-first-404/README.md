@@ -1,6 +1,12 @@
-## 🔹 Basic 404 Template with Animation
-
+# 🔹 Basic 404 Template with Animation
  - 🐢 Hey! This is a basic open source Front End project based on Page not found, 404 Error Code. Free to Use in Your projects, Enjoy! <br>
+ 
+ ## 🔰 Preview
+
+<img src="https://imgur.com/HJAsZR" align="center" style="width: 100%" />
+
+## Or Check it here: [Clik here](https://vilictus.github.io/TailwindCSS-Public-Proyects/404-Templates/tw-first-404)
+ 
  - 🔱 Credits to theappguruz.com for the animation!
  
 
