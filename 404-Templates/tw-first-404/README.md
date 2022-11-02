@@ -5,7 +5,7 @@
 
 <img src="https://imgur.com/HJAsZR1.png" align="center" style="width: 100%" />
 
-## Or Check it here: [Clik here](https://vilictus.github.io/TailwindCSS-Public-Proyects/404-Templates/tw-first-404)
+## Or Check it here: [Click here](https://vilictus.github.io/TailwindCSS-Public-Proyects/404-Templates/tw-first-404)
  
  - 🔱 Credits to theappguruz.com for the animation!
  
