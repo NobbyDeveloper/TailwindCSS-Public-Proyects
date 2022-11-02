@@ -1,7 +1,7 @@
 ## 🔹 Basic 404 Template with Animation
 
- -Hey! This is a basic open source front end project based on page not found, 404. Free to Use in Your projects, Enjoy!
- -🔱 Credits to theappguruz.com for the animation!
+ - 🐢 Hey! This is a basic open source Front End project based on Page not found, 404 Error Code. Free to Use in Your projects, Enjoy! <br>
+ - 🔱 Credits to theappguruz.com for the animation!
  
 
  
